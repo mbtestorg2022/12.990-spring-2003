@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 89c78cb1-3a2f-a12b-482a-180118be59c7
 resourcetype: Image
 title: ikeda.jpg
 uid: a4c58f0c-c235-9e76-2330-02b62a429a63

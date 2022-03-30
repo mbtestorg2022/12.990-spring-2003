@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 89c78cb1-3a2f-a12b-482a-180118be59c7
 resourcetype: Image
 title: ms.jpg
 uid: ea6daf7b-dc71-54ce-81f3-ce1e64a1f2dd

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 89c78cb1-3a2f-a12b-482a-180118be59c7
 resourcetype: Image
 title: stil.jpg
 uid: 12b3df64-29c5-6f56-9c3b-c9db3c509118

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 89c78cb1-3a2f-a12b-482a-180118be59c7
 resourcetype: Image
 title: henon.jpg
 uid: e68321d2-ca2e-ab4e-d1c6-22e3bad08dfc
